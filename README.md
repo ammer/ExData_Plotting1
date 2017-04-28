@@ -1,3 +1,31 @@
+
+# Course project 1 for "Exploratory data analysis"@Coursera
+## Generated graphics
+### Plot 1
+
+
+![](plot1.png) 
+
+
+### Plot 2
+
+![](plot2.png) 
+
+
+### Plot 3
+
+![](plot3.png) 
+
+
+### Plot 4
+
+![](plot4.png) 
+
+
+---
+Following is original README.md
+---
+
 ## Introduction
 
 This assignment uses data from
